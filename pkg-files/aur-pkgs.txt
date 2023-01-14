@@ -19,3 +19,15 @@ snapper-gui-git
 ttf-meslo
 vde2
 zoom
+bat
+rm-improved
+rip-grep
+xcp
+fd
+procs
+broot
+dust
+bottom
+zoxide
+colorls
+github-cli
