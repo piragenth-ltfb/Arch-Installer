@@ -28,6 +28,5 @@ procs
 broot
 dust
 bottom
-zoxide
 colorls
 github-cli
